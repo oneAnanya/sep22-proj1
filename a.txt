@@ -1,3 +1,5 @@
 hello a.txt
 Some changes done by user01
 second lone
+i am rewriting a.txt
+adding some more lines
